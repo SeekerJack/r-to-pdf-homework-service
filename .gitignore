@@ -1,0 +1,34 @@
+# Local TeX and R environments
+.TinyTeX/
+.r-lib/
+
+# Service runtime folders
+.service-work/
+service_logs/
+inbox/*
+pdf_output/*
+
+# R Markdown / LaTeX generated files
+*_files/
+*.aux
+*.log
+*.tex
+*.toc
+*.knit.md
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Generated documents
+*.pdf
+*.Rmd
+
+# Private homework naming patterns
+*作业*
+*2025*
+
+# Keep repository placeholders if added later
+!inbox/.gitkeep
+!pdf_output/.gitkeep
+
