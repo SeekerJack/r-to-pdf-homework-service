@@ -4,9 +4,11 @@
 
 # Service runtime folders
 .service-work/
+.edge-headless-profile/
 service_logs/
 inbox/*
 pdf_output/*
+promo/
 
 # R Markdown / LaTeX generated files
 *_files/
@@ -31,4 +33,3 @@ pdf_output/*
 # Keep repository placeholders if added later
 !inbox/.gitkeep
 !pdf_output/.gitkeep
-
