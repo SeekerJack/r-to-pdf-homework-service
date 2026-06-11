@@ -41,4 +41,8 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\start_r_pdf_service.ps
 - 系统是否有中文字体
 - LaTeX 是否可正常编译中文文档
 
+## GitHub 发布前检查
+
+公开仓库只建议发布工具代码和脱敏示例。提交前请确认没有真实作业、日志、生成 PDF、本机路径、姓名、学号或班级信息。
+
 可以在发布目录运行关键词搜索，确认没有敏感内容后再提交。
